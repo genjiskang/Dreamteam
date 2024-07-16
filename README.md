@@ -18,8 +18,8 @@
 - 팀원 3의 깃허브 주소
 - 팀원 4의 깃허브 주
 
-# 깃허브에 코드 올리는 방법
-## 초기세팅
+## 깃허브에 코드 올리는 방법
+### 초기세팅
 git remote add origin https://github.com/genjiskang/sky_Portfolio.git
 -> 이거는 깃허브 주소랑 내 파일이랑 연결하는 과정
 
