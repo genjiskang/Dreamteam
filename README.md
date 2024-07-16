@@ -6,6 +6,18 @@
 2) Back-End : 다희, 준상
 3) AI : 원명
 
+### 기술 스택
+- 프론트엔드 : React, Bootstrap
+- 백엔드 : Spring, ...
+- 데이터베이스 : ?
+- AI : ?
+
+### 팀원
+- 팀원 1의 깃허브 주소
+- 팀원 2의 깃허브 주소
+- 팀원 3의 깃허브 주소
+- 팀원 4의 깃허브 주
+
 # 깃허브에 코드 올리는 방법
 ## 초기세팅
 git remote add origin https://github.com/genjiskang/sky_Portfolio.git
@@ -17,7 +29,7 @@ git fetch origin
 git pull origin main or git pull origin 브랜치명 
 -> 깃허브에 올라와 있는 내용을 내 파일로 땡겨오기 pull
 
-<개발시에는 각자 브랜치를 파야함 - 충돌과 에러 방지>
+<개발시에는 각자 개인 브랜치를 생성해야 함 -> 충돌과 에러 방지>
 1. git checkout -b "새로운 브랜치명"
 -> 새로운 브랜치를 파면서 그 브랜치로 이동
 
