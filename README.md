@@ -26,7 +26,7 @@
 ## GitHub에 코드 올리는 방법
 #### 초기세팅
 
-#### git remote add origin https://github.com/genjiskang/sky_Portfolio.git
+#### git remote add origin https://github.com/genjiskang/Dreamteam.git
 -> 이거는 깃허브 주소랑 내 파일이랑 연결하는 과정
 
 #### git fetch origin
